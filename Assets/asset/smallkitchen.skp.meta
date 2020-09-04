@@ -1,0 +1,228 @@
+fileFormatVersion: 2
+guid: bf68eefcb572a764f9c1e243ce31af1c
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d000000
+  assetHash:
+    serializedVersion: 2
+    Hash: d59c195692df4ddbcd548b7eeede76ff
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 66.34587, y: 58.415, z: -146.19113}
+      lookAt: {x: 10.047337, y: 40.22817, z: -17.136024}
+      up: {x: -0.051221654, y: 0.99176085, z: 0.11741718}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: aspirator
+    100002: cook
+    100004: cook_panel
+    100006: kitchen
+    100008: kitchen_st
+    100010: Mesh01
+    100012: Mesh02
+    100014: moyka
+    100016: pot01
+    100018: pot02
+    100020: skpAB0C
+    100022: //RootNode
+    100024: tarelka01
+    100026: tarelka02
+    100028: tarelka03
+    100030: tarelka04
+    100032: tarelka05
+    100034: tarelka06
+    100036: tarelka07
+    100038: tarelka08
+    100040: tarelka09
+    100042: tarelka10
+    100044: tarelka11
+    100046: tarelka12
+    400000: aspirator
+    400002: cook
+    400004: cook_panel
+    400006: kitchen
+    400008: kitchen_st
+    400010: Mesh01
+    400012: Mesh02
+    400014: moyka
+    400016: pot01
+    400018: pot02
+    400020: skpAB0C
+    400022: //RootNode
+    400024: tarelka01
+    400026: tarelka02
+    400028: tarelka03
+    400030: tarelka04
+    400032: tarelka05
+    400034: tarelka06
+    400036: tarelka07
+    400038: tarelka08
+    400040: tarelka09
+    400042: tarelka10
+    400044: tarelka11
+    400046: tarelka12
+    2100000: banana Peel
+    2100002: Ceramiks 2
+    2100004: chrome go
+    2100006: Ceramiks
+    2100008: glass 1
+    2100010: metal
+    2100012: w  birch
+    2100014: chrome08 210
+    2100016: _kitchenwire_198
+    2300000: aspirator
+    2300002: cook
+    2300004: cook_panel
+    2300006: kitchen
+    2300008: kitchen_st
+    2300010: Mesh01
+    2300012: Mesh02
+    2300014: moyka
+    2300016: pot01
+    2300018: pot02
+    2300020: tarelka01
+    2300022: tarelka02
+    2300024: tarelka03
+    2300026: tarelka04
+    2300028: tarelka05
+    2300030: tarelka06
+    2300032: tarelka07
+    2300034: tarelka08
+    2300036: tarelka09
+    2300038: tarelka10
+    2300040: tarelka11
+    2300042: tarelka12
+    3300000: aspirator
+    3300002: cook
+    3300004: cook_panel
+    3300006: kitchen
+    3300008: kitchen_st
+    3300010: Mesh01
+    3300012: Mesh02
+    3300014: moyka
+    3300016: pot01
+    3300018: pot02
+    3300020: tarelka01
+    3300022: tarelka02
+    3300024: tarelka03
+    3300026: tarelka04
+    3300028: tarelka05
+    3300030: tarelka06
+    3300032: tarelka07
+    3300034: tarelka08
+    3300036: tarelka09
+    3300038: tarelka10
+    3300040: tarelka11
+    3300042: tarelka12
+    4300000: Mesh Mesh01
+    4300002: Mesh Mesh02
+    4300004: Mesh aspirator
+    4300006: Mesh cook
+    4300008: Mesh cook_panel
+    4300010: Mesh kitchen
+    4300012: Mesh kitchen_st
+    4300014: Mesh moyka
+    4300016: Mesh pot01
+    4300018: Mesh pot02
+    4300020: Mesh tarelka01
+    4300022: Mesh tarelka02
+    4300024: Mesh tarelka03
+    4300026: Mesh tarelka04
+    4300028: Mesh tarelka05
+    4300030: Mesh tarelka06
+    4300032: Mesh tarelka07
+    4300034: Mesh tarelka08
+    4300036: Mesh tarelka09
+    4300038: Mesh tarelka10
+    4300040: Mesh tarelka11
+    4300042: Mesh tarelka12
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

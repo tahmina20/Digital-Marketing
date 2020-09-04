@@ -1,0 +1,281 @@
+fileFormatVersion: 2
+guid: b6986510d924cc0498a3deb3d5af3dab
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f00000040000000410000004200000043000000440000004500000046000000
+  assetHash:
+    serializedVersion: 2
+    Hash: d1af94387b2326b845dc11ebf56636d4
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 4.9642177, y: 3.1197288, z: -7.5486684}
+      lookAt: {x: 0.4793919, y: -2.9194233, z: 14.629356}
+      up: {x: -0.051112514, y: 0.9661786, z: 0.25275782}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: base
+    100002: base 1
+    100004: base 2
+    100006: base 3
+    100008: bottom
+    100010: bottom 1
+    100012: Box01a
+    100014: Box01a 1
+    100016: Component#1
+    100018: Component#1 1
+    100020: Desk lamp arts and crafts
+    100022: Desk lamp arts and crafts 1
+    100024: flat
+    100026: flat 1
+    100028: flat 2
+    100030: flat 3
+    100032: flat 4
+    100034: flat 5
+    100036: flat 6
+    100038: flat 7
+    100040: frame
+    100042: Group 1
+    100044: Group 17
+    100046: Group 2
+    100048: Group 4
+    100050: Group 5
+    100052: Group 7
+    100054: middle
+    100056: middle 1
+    100058: Picture Frame free standing landscape
+    100060: Picture Frame free standing landscape#1
+    100062: Picture Frame free standing landscape#2
+    100064: PICTURE FRAME FREE STANDING LANDSCAPE#3
+    100066: Picture frame landscape
+    100068: Red Cushions
+    100070: Red Cushions 1
+    100072: shade
+    100074: shade 1
+    100076: skpD0
+    100078: skpD0 1
+    100080: Susan
+    100082: //RootNode
+    400000: base
+    400002: base 1
+    400004: base 2
+    400006: base 3
+    400008: bottom
+    400010: bottom 1
+    400012: Box01a
+    400014: Box01a 1
+    400016: Component#1
+    400018: Component#1 1
+    400020: Desk lamp arts and crafts
+    400022: Desk lamp arts and crafts 1
+    400024: flat
+    400026: flat 1
+    400028: flat 2
+    400030: flat 3
+    400032: flat 4
+    400034: flat 5
+    400036: flat 6
+    400038: flat 7
+    400040: frame
+    400042: Group 1
+    400044: Group 17
+    400046: Group 2
+    400048: Group 4
+    400050: Group 5
+    400052: Group 7
+    400054: middle
+    400056: middle 1
+    400058: Picture Frame free standing landscape
+    400060: Picture Frame free standing landscape#1
+    400062: Picture Frame free standing landscape#2
+    400064: PICTURE FRAME FREE STANDING LANDSCAPE#3
+    400066: Picture frame landscape
+    400068: Red Cushions
+    400070: Red Cushions 1
+    400072: shade
+    400074: shade 1
+    400076: skpD0
+    400078: skpD0 1
+    400080: Susan
+    400082: //RootNode
+    2100000: _39
+    2100002: akb-maple-hard
+    2100004: Bed Blue cover
+    2100006: '[Color_D10]'
+    2100008: '[Color_001]'
+    2100010: _1
+    2100012: _DarkGoldenrod_
+    2100014: _Beige_2
+    2100016: 96,96,96
+    2100018: _Beige_1
+    2100020: '[Color_B24]'
+    2100022: _LightGray_
+    2100024: '[0135_DarkGray]'
+    2100026: jean blue
+    2100028: _Charcoal_
+    2100030: '[0010_Snow]'
+    2100032: '[Metal_Seamed]'
+    2100034: '[0137_Black]'
+    2100036: Color_006
+    2100038: Color_E06
+    2300000: base
+    2300002: base 1
+    2300004: base 2
+    2300006: base 3
+    2300008: bottom
+    2300010: bottom 1
+    2300012: Box01a
+    2300014: Box01a 1
+    2300016: Component#1
+    2300018: Component#1 1
+    2300020: flat
+    2300022: flat 1
+    2300024: flat 2
+    2300026: flat 3
+    2300028: flat 4
+    2300030: flat 5
+    2300032: flat 6
+    2300034: flat 7
+    2300036: frame
+    2300038: Group 17
+    2300040: Group 2
+    2300042: Group 5
+    2300044: Group 7
+    2300046: middle
+    2300048: middle 1
+    2300050: Picture frame landscape
+    2300052: shade
+    2300054: shade 1
+    2300056: Susan
+    3300000: base
+    3300002: base 1
+    3300004: base 2
+    3300006: base 3
+    3300008: bottom
+    3300010: bottom 1
+    3300012: Box01a
+    3300014: Box01a 1
+    3300016: Component#1
+    3300018: Component#1 1
+    3300020: flat
+    3300022: flat 1
+    3300024: flat 2
+    3300026: flat 3
+    3300028: flat 4
+    3300030: flat 5
+    3300032: flat 6
+    3300034: flat 7
+    3300036: frame
+    3300038: Group 17
+    3300040: Group 2
+    3300042: Group 5
+    3300044: Group 7
+    3300046: middle
+    3300048: middle 1
+    3300050: Picture frame landscape
+    3300052: shade
+    3300054: shade 1
+    3300056: Susan
+    4300000: Mesh Group 2
+    4300002: Mesh Group 5
+    4300004: Mesh Group 7
+    4300006: Mesh Box01a
+    4300008: Mesh Group 17
+    4300010: Mesh Susan
+    4300012: Mesh shade
+    4300014: Mesh middle
+    4300016: Mesh flat
+    4300018: Mesh base
+    4300020: Mesh bottom
+    4300022: Mesh Component#1
+    4300024: Mesh frame
+    4300026: Mesh Picture frame landscape
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
